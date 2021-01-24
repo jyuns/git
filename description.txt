@@ -2,3 +2,4 @@ commit에 관한 주의사항
 1) 처음으로 커밋을 하기 전 사용자의 이름과 이메일 주소를 설정할 것 # git config user.name "text"
 2) 커밋 메시지 남기기 옵션 # git commit -m "text"
 3) 커밋할 파일을 git add로 지정해 트래킹 실행
+4) staging 취소 # git reset .
